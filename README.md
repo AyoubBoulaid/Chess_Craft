@@ -4,7 +4,7 @@ This project is an object-oriented implementation of a chess game using Python, 
 
 ## Features
 
-- **Play against Stockfish:** Challenge the Stockfish engine at its default skill level. 
+- **Play against Stockfish as well as against another human player:** Challenge the Stockfish engine at its default skill level. 
 - **Visual Board:** Enjoy the game on a graphical board with classic piece representation.
 - **Game Over Detection:** The game detects checkmate and stalemate conditions, declaring the winner or a draw.
 - **Restart Functionality:** Easily restart the game after checkmate or stalemate.
@@ -35,15 +35,13 @@ This project is an object-oriented implementation of a chess game using Python, 
 This project can be further enhanced with the following features:
 
 - **Configurable Difficulty:** Allow the user to set the difficulty level of the Stockfish engine (e.g., by adjusting Elo rating or search depth).
-- **Player vs. Player Mode:** Implement a mode where two human players can play against each other.
 - **Move History:** Display a list of moves made during the game.
 - **Move Hints:** Use Stockfish to generate and display a list of the top 'K' best moves as hints for the player.
 - **Improved UI:** Create a more sophisticated graphical user interface (GUI) with menus, options, and visual enhancements.
 - **Sound Effects:** Add sound effects for piece movements and other game events.
 
-## Contributing
-
-Contributions to this project are welcome. If you have any ideas for new features, improvements, or bug fixes, feel free to submit pull requests or open issues.
+## AUthors
+Me; MYSELF; AND I boulaid ayoub ("boulaidayoub02@gmail.com")
 
 ## License
 
