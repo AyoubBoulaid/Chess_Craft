@@ -14,7 +14,7 @@
 
 ## Instructions
 1. Clone this repository.
-2. Select whether you want to play versus computer, against another player locally, or watch the game of engine playing against itself by setting appropriate flags in lines 52 and 53 of `ChessMain.py`.
+2. Select whether you want to play versus computer, against another player locally, or watch the game of engine playing against itself by setting appropriate flags in lines 52 and 53 of `ChessMain.py` (change player white or black from false to true).
 3. Run `ChessMain.py`.
 4. Enjoy the game!
 
