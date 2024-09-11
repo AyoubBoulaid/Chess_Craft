@@ -1,0 +1,6 @@
+pygame==2.0.1
+python
+python3
+pip
+chess
+chess engine
