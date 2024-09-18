@@ -108,9 +108,7 @@ While Chess Craft already offers a rich chess-playing experience, there are seve
 - **Pygame Community** - For providing extensive resources and support for game development.
 - **Family & Friends** - For their encouragement and support during the development of this project.
 
----
 
-Feel free to modify or expand this `README.md` to further align with your project's vision or goals!
 ### Authors
 Ayoub Boulaid (<boulaidayoub02@gmai.com>)
 
