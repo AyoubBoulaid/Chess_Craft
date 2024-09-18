@@ -1,5 +1,6 @@
 # **Chess Craft**
-https://www.posters.cz/chess-queen-in-space-v143955
+![198006](https://github.com/user-attachments/assets/63eb46df-bcf7-4c8d-bd20-6b945bd59b67)
+
 **Chess Craft** is a unique and customizable chess game designed to challenge players with various levels of difficulty. This project is a modern take on the classic game of chess, offering both player-vs-player mode and AI-based player-vs-computer mode powered by Stockfish. The goal of Chess Craft is to provide a visually appealing and interactive chess experience with options for both beginners and advanced players. The game includes a beautiful user interface, smooth gameplay, and features such as undo, hints, and adjustable AI difficulty.
 
 ---
